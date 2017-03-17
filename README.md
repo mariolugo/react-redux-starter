@@ -2,12 +2,12 @@
 
 # React-Base
 
-
+<!--
 ![Build-Status](https://travis-ci.org/atSistemas/react-base.svg?branch=master)
 ![Build-Status](https://ci.appveyor.com/api/projects/status/github/atSistemas/react-base?branch=master&svg=true)
 ![Coverage](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_91.svg)
 ![Npm-Version](https://img.shields.io/badge/npm-6.2.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)-->
 
 **A modular platform for Redux Isomorphic applications**
 
@@ -53,10 +53,7 @@ React-Base makes use a number of NodeJS tools to initialize and test React-Base.
 
 You can clone our Git repository:
 
-`$ git clone https://github.com/atSistemas/react-base.git`
-
-This method requires Git to be installed on your computer. You can get it from
-[here](http://git-scm.com).
+`$ git clone https://github.com/mariolugo/react-redux-starter.git`
 
 ### Wiring up your development environment
 
@@ -159,4 +156,4 @@ Anyone and everyone is welcome to contribute, however, if you decide to get invo
 
 ## License
 
-**React-Base** is available under the [MIT license](LICENSE).
+[MIT license](LICENSE).
